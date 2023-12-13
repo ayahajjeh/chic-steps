@@ -1,1 +1,1 @@
-# chic-steps
+# Chic Steps UI Project
